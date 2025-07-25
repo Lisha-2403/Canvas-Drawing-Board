@@ -7,7 +7,7 @@ Users can choose brush colors, adjust brush size, draw freely, and clear the can
 
 ## 🌐 Live Demo
 
-👉 [View it on GitHub Pages](https://Lisha-2403.github.io/canvas-drawing-board/)  
+👉 [View it on GitHub Pages](https://Lisha-2403.github.io/Canvas-Drawing-Board/)  
 
 ---
 
